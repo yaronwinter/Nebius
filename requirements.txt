@@ -5,6 +5,7 @@ fastapi
 httpx
 ipython
 jinja2
+notebook
 numpy
 openai
 pandas
