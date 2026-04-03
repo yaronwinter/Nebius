@@ -14,9 +14,9 @@ which the keys are the attributes names and the values are their description.
 "{
 'Name':'Apple iPhone 15 Pro',
 'material':'titanium...',
-'warranty':'1‑year limited warranty',
+'warranty':'1-year limited warranty',
 'features':'A17 Pro chip...',
-'battery':'long‐lasting',
+'battery':'long-lasting',
 }"
 
 Notice that the first 4 attributes - Name, material, warranty, and features - appear,
@@ -28,7 +28,7 @@ Please generate for such product a description, which will satisfies the next cr
 * Sounds natural and fluent, clear and easy to read.
 * Should be grammatically correct, with puctuations and uppercase where needed.
 * The 'tone' of the text should be friendly, sounds like a credible sales voice, nice and poilte.
-* The length of the generated text, i words number, should be in the range 50-90 words.
+* The length of the generated text, in words number, should be in the range 50-90 words.
 * It is VERY IMPORTANT that the generated description can be inferred from the product attributes only, with no hallucinations!
 
 ***Output Format:***
