@@ -1,10 +1,13 @@
 anthropic
 beautifulsoup4
+datasets
 faiss-cpu
 fastapi
 httpx
 ipython
+ipywidgets
 jinja2
+matplotlib
 notebook
 numpy
 openai
@@ -13,5 +16,7 @@ prometheus-client
 python-dotenv
 requests
 scikit-learn
+seaborn
 structlog
+torch
 uvicorn
